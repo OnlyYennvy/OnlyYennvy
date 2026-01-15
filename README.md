@@ -26,6 +26,13 @@
   <img width="700" height="700" src="https://github.com/user-attachments/assets/2f17104f-6e48-4d06-9764-52318c77e9c3">
 </p>
 
+<p align="center">   ᴇɴɢ / ꜰɪʟ  </p>
+<p>
+
+<p align="center">   ( 𝘤+𝘩 𝘧𝘳𝘦𝘦𝘭𝘺 𝘪𝘧 𝘐 𝘢𝘮 𝘈𝘧𝘬. ) </p>
+<p>
+
+
 <img width="1500" height="200" alt="Image" src="https://github.com/user-attachments/assets/d1ed3ce4-106e-4dd1-a0fd-67dbf376f942" />
 
 <p align="center">
