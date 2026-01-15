@@ -44,5 +44,5 @@
 
 <img width="1500" height="200" alt="Image" src="https://github.com/user-attachments/assets/d1ed3ce4-106e-4dd1-a0fd-67dbf376f942" />
 
-<p align="center">   ( 🇮 🇱🇴🇻🇪 🇲🇾 🇪🇵🇮🇨 🇫🇷🇮🇪🇳🇩🇸. ) </p>
+<p align="center">    Do NOT copy my skins, and no covering unless were friends or know eachother thanks </p>
 <p>
