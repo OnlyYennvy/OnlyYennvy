@@ -36,11 +36,8 @@
 <p>
 
 
-<img width="1500" height="200" alt="Image" src="https://github.com/user-attachments/assets/d1ed3ce4-106e-4dd1-a0fd-67dbf376f942" />
 
-<p align="center">
-  <img width="1000" height="500" src="https://github.com/user-attachments/assets/393f2bc9-4225-454c-ae8a-2b2d05f4d776">
-</p>
+
 
 <img width="1500" height="200" alt="Image" src="https://github.com/user-attachments/assets/d1ed3ce4-106e-4dd1-a0fd-67dbf376f942" />
 
