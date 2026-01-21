@@ -1,5 +1,5 @@
 
-> ![](https://komarev.com/ghpvc/?username=your-github-username&color=grey&label=TITANS) 
+> ![](https://komarev.com/ghpvc/?username=your-github-username&color=grey&label=ELDIANS) 
 
 
 
@@ -60,5 +60,11 @@
 
 <img width="1500" height="500" alt="Image" src="https://github.com/user-attachments/assets/b086ec83-4d26-48a2-b723-81f284801f04" />
 
-<p align="center">    Do NOT copy my skins, and no covering unless were friends or know eachother thanks. </p>
+<p align="center">   
+
+ <p align="center">   mostly  inactive  +  Do NOT copy my skins, and no covering unless were friends or know eachother thanks. </p>
+<p>
+
+
+ <p align="center">  I update my profile each hyperfixiation, so please beware </p>
 <p>
