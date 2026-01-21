@@ -1,11 +1,23 @@
->     THAT guy who updates their github every second.." the enemy is closer than they think      ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:44 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=607d8b&label=VICTIMS) 
 
-<img width="1000" height="400" alt="Image" src="https://github.com/user-attachments/assets/04199026-3430-474c-9f62-91f586795509" />
+> ![](https://komarev.com/ghpvc/?username=your-github-username&color=grey&label=TITANS) 
 
 
 
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/2adabd7b-7d43-411f-a975-1638e5495433" alt="animated" />
+</p>
 
+<p align="center">  `` "𝚂𝚝𝚊𝚢 𝙰𝚕𝚒𝚟𝚎. 𝚃𝚑𝚊𝚝'𝚜 𝙰𝚗 𝙾𝚛𝚍𝚎𝚛." `` </p>
+<p>
+
+
+<img width="1000" height="350" alt="Image" src="https://github.com/user-attachments/assets/effc7fda-160f-4f9f-adea-7354911896c0" />
+
+
+
+ <p align="center">
+  <img width="900" height="1000" img src="https://github.com/user-attachments/assets/f9867e99-5f0e-4b8e-ae51-4120e9401e5e">
+</p>
 
  
 
@@ -17,13 +29,13 @@
   </a>
 </p>
 
-<p align="center">  `` "𝙲𝚒𝚐𝚊𝚛𝚎𝚝𝚝𝚎𝚜 𝚘𝚞𝚝 𝚝𝚑𝚎 𝚠𝚒𝚗𝚍𝚘𝚠, 𝚠𝚊𝚝𝚌𝚑𝚒𝚗𝚐 𝚝𝚑𝚎 𝚜𝚖𝚘𝚔𝚎 𝚋𝚕𝚘𝚠." `` </p>
+<p align="center">  `` "𝚍𝚎𝚍𝚒𝚌𝚊𝚝𝚎 𝚢𝚘𝚞𝚛 𝚑𝚎𝚊𝚛𝚝. " `` </p>
 <p>
 
 
  
  <p align="center">
-  <img width="700" height="700" src="https://github.com/user-attachments/assets/2f17104f-6e48-4d06-9764-52318c77e9c3">
+  <img width="700" height="700" src="https://github.com/user-attachments/assets/9c1aad40-f19b-4dd9-a01a-3bc3f30d982d">
 </p>
 
 <p align="center">   𝗬𝗲𝗻𝘂 / 𝗬𝗲𝗻𝗻 / 𝗩𝗶𝘃𝗶  </p>
@@ -39,7 +51,14 @@
 
 
 
-<img width="1500" height="200" alt="Image" src="https://github.com/user-attachments/assets/d1ed3ce4-106e-4dd1-a0fd-67dbf376f942" />
 
-<p align="center">    Do NOT copy my skins, and no covering unless were friends or know eachother thanks </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4930d7e7-7ad8-455f-a3bb-f17bdb0ab114" alt="animated" />
+</p>
+
+
+
+<img width="1500" height="500" alt="Image" src="https://github.com/user-attachments/assets/b086ec83-4d26-48a2-b723-81f284801f04" />
+
+<p align="center">    Do NOT copy my skins, and no covering unless were friends or know eachother thanks. </p>
 <p>
