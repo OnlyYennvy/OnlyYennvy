@@ -4,17 +4,21 @@
 
 
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/2adabd7b-7d43-411f-a975-1638e5495433" alt="animated" />
+  <img src="https://github.com/user-attachments/assets/eade4bd9-cb1a-4a16-9a67-c0a79ca7e940" alt="animated" />
 </p>
 
-<p align="center">  `` "𝚂𝚝𝚊𝚢 𝙰𝚕𝚒𝚟𝚎. 𝚃𝚑𝚊𝚝'𝚜 𝙰𝚗 𝙾𝚛𝚍𝚎𝚛." `` </p>
+
+
+
+
+<p align="center">  `` "𝙰𝚜 𝚊 𝚠𝚊𝚛𝚛𝚒𝚘𝚛 𝚏𝚞𝚕𝚏𝚒𝚕𝚕 𝚖𝚢 𝚍𝚞𝚝𝚢 𝚝𝚘 𝚝𝚑𝚎 𝚋𝚒𝚝𝚝𝚎𝚛 𝚎𝚗𝚍." `` </p>
 <p>
 
 
 
 
  <p align="center">
-  <img width="900" height="1000" img src="https://github.com/user-attachments/assets/f9867e99-5f0e-4b8e-ae51-4120e9401e5e">
+  <img width="800" height="850" img src="https://github.com/user-attachments/assets/e8f2a529-90ba-4d15-9144-898838c6a6c1">
 </p>
 
  
@@ -27,16 +31,16 @@
   </a>
 </p>
 
-<p align="center">  `` "𝚍𝚎𝚍𝚒𝚌𝚊𝚝𝚎 𝚢𝚘𝚞𝚛 𝚑𝚎𝚊𝚛𝚝. " `` </p>
+<p align="center">  `` " “𝙸’𝚖 𝚂𝚒𝚌𝚔 𝙰𝚗𝚍 𝚃𝚒𝚛𝚎𝚍 𝙾𝚏 𝚃𝚑𝚎𝚜𝚎 𝚆𝚊𝚕𝚕𝚜." " `` </p>
 <p>
 
 
  
  <p align="center">
-  <img width="700" height="700" src="https://github.com/user-attachments/assets/9c1aad40-f19b-4dd9-a01a-3bc3f30d982d">
+  <img width="700" height="700" src="https://github.com/user-attachments/assets/f5d52aa7-6ff3-4e20-a94c-3426ccddfaa1">
 </p>
 
-<p align="center">   𝗬𝗲𝗻𝘂 / 𝗬𝗲𝗻𝗻 / 𝗩𝗶𝘃𝗶  </p>
+<p align="center">   𝗬𝗲𝗻𝘂 / 𝗬𝗲𝗻𝗻   </p>
 <p>
 
 <p align="center">   ᴇɴɢ / ꜰɪʟ  </p>
@@ -50,15 +54,10 @@
 
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4930d7e7-7ad8-455f-a3bb-f17bdb0ab114" alt="animated" />
+ <p align="center">
+  <img width="850" height="800" src="https://github.com/user-attachments/assets/5a40f316-1691-47e3-b8b7-6c682f738c16">
 </p>
 
-
-
-<img width="1500" height="500" alt="Image" src="https://github.com/user-attachments/assets/b086ec83-4d26-48a2-b723-81f284801f04" />
-
-<p align="center">   
 
  <p align="center">   mostly  inactive  +  Do NOT copy my skins, and no covering unless were friends or know eachother thanks. </p>
 <p>
@@ -66,3 +65,10 @@
 
  <p align="center">  I update my profile each hyperfixiation, so please beware </p>
 <p>
+
+
+<img width="1500" height="500" alt="Image" src="https://github.com/user-attachments/assets/b086ec83-4d26-48a2-b723-81f284801f04" />
+
+<p align="center">   
+
+
