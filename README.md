@@ -8,14 +8,14 @@
 
 
 
-<p align="center">  `` "𝙰𝚜 𝚊 𝚠𝚊𝚛𝚛𝚒𝚘𝚛 𝚏𝚞𝚕𝚏𝚒𝚕𝚕 𝚖𝚢 𝚍𝚞𝚝𝚢 𝚝𝚘 𝚝𝚑𝚎 𝚋𝚒𝚝𝚝𝚎𝚛 𝚎𝚗𝚍." `` </p>
+<p align="center">  I love reiner ok   </p>
 <p>
 
 
 
 
  <p align="center">
-  <img width="1000" height="900" img src="https://github.com/user-attachments/assets/b9af4732-c4eb-43c4-a16d-b2f4bcce6a72">
+  <img width="1000" height="900" img src="https://github.com/user-attachments/assets/6bef530d-5648-4d30-a6b4-a4c65bcb63d6">
 </p>
 
  
