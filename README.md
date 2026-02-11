@@ -3,10 +3,7 @@
 
 
 
- <p align="center">
-  <img src="https://github.com/user-attachments/assets/eade4bd9-cb1a-4a16-9a67-c0a79ca7e940" alt="animated" />
-</p>
-
+ 
 
 
 
@@ -18,7 +15,7 @@
 
 
  <p align="center">
-  <img width="800" height="850" img src="https://github.com/user-attachments/assets/e8f2a529-90ba-4d15-9144-898838c6a6c1">
+  <img width="1000" height="900" img src="https://github.com/user-attachments/assets/b9af4732-c4eb-43c4-a16d-b2f4bcce6a72">
 </p>
 
  
@@ -31,13 +28,12 @@
   </a>
 </p>
 
-<p align="center">  `` " “𝙸’𝚖 𝚂𝚒𝚌𝚔 𝙰𝚗𝚍 𝚃𝚒𝚛𝚎𝚍 𝙾𝚏 𝚃𝚑𝚎𝚜𝚎 𝚆𝚊𝚕𝚕𝚜." " `` </p>
-<p>
+
 
 
  
  <p align="center">
-  <img width="700" height="700" src="https://github.com/user-attachments/assets/f5d52aa7-6ff3-4e20-a94c-3426ccddfaa1">
+  <img width="560" height="500" src="https://github.com/user-attachments/assets/9c376569-f9e1-490b-9f75-519c1ab53424">
 </p>
 
 <p align="center">   𝗬𝗲𝗻𝘂 / 𝗬𝗲𝗻𝗻   </p>
@@ -50,25 +46,28 @@
 <p>
 
 
+ 
+
+
+
+ <p align="center">   mostly  inactive  +  Do NOT copy my skins, and no covering unless were friends or know eachother thanks. This account is primarly for deco / pt  </p>
+<p>
+
+
+ <p align="center">  I update my profile each hyperfixiation, so please beware. You can find me in spawn / docks or anywhere really </p>
+<p>
 
 
 
 
- <p align="center">
-  <img width="850" height="800" src="https://github.com/user-attachments/assets/5a40f316-1691-47e3-b8b7-6c682f738c16">
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/012a9e56-22ce-429b-b28f-6c6198adbd86" alt="animated" />
 </p>
 
 
- <p align="center">   mostly  inactive  +  Do NOT copy my skins, and no covering unless were friends or know eachother thanks. </p>
-<p>
+ <p align="center">
+  <img width="900" height="500" img src="https://github.com/user-attachments/assets/475bbbeb-2586-4629-a93a-0f9a390c766d">
+</p>
 
-
- <p align="center">  I update my profile each hyperfixiation, so please beware </p>
-<p>
-
-
-<img width="1500" height="500" alt="Image" src="https://github.com/user-attachments/assets/b086ec83-4d26-48a2-b723-81f284801f04" />
-
-<p align="center">   
-
-
+ 
