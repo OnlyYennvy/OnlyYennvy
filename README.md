@@ -8,15 +8,11 @@
 
 
 
-<p align="center">  I love reiner ok   </p>
+<p align="center">  "Just like you, I keep moving forward"  </p>
 <p>
 
 
 
-
- <p align="center">
-  <img width="1000" height="900" img src="https://github.com/user-attachments/assets/6bef530d-5648-4d30-a6b4-a4c65bcb63d6">
-</p>
 
  
 
