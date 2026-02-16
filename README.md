@@ -51,7 +51,9 @@ $${\color{red}𝗬𝗲𝗻𝘂 / 𝗬𝗲𝗻𝗻}$$
 <p>
 
 
-
+ <p align="center">
+  <img width="1000" height="1000" src="https://github.com/user-attachments/assets/8e0a16ed-2a6e-40b3-9e34-2dd8ffd79c7b">
+</p>
 
 
 <p align="center">
@@ -65,6 +67,17 @@ $${\color{red}𝗬𝗲𝗻𝘂 / 𝗬𝗲𝗻𝗻}$$
 > ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-for-the-badge&color=8B0000&label=CLEANERS) 
 
 
+
+
+$${\color{red}BLOOD \space \color{red}MEANS \space \color{red}{NOTHING.}}$$
+
+
+
  <p align="center">
-  <img width="1000" height="350" src="https://github.com/user-attachments/assets/5dbb8d5a-a82a-4d88-82b6-c51753f6ba8c">
+  <img width="1000" height="200" src="https://github.com/user-attachments/assets/5dbb8d5a-a82a-4d88-82b6-c51753f6ba8c">
 </p>
+
+
+
+
+ 
