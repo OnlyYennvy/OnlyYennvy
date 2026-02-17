@@ -51,10 +51,7 @@ $${\color{red}𝗬𝗲𝗻𝘂 / 𝗬𝗲𝗻𝗻}$$
 <p>
 
 
- <p align="center">
-  <img width="1000" height="1000" src="https://github.com/user-attachments/assets/8e0a16ed-2a6e-40b3-9e34-2dd8ffd79c7b">
-</p>
-
+ 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9ddf5ab9-ca16-4a3e-b61b-eaf12e2f5d53" alt="animated" />
