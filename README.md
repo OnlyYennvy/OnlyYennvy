@@ -1,30 +1,20 @@
 
 
  <p align="center">
-  <img width="1000" height="170" src="https://github.com/user-attachments/assets/19768753-b338-46b7-b737-88a3e9ce9923">
+  <img width="1000" height="170" src="https://github.com/user-attachments/assets/5ad95276-bbd6-4a50-b73e-f2f26aeef77a">
 </p>
 
 
 
 
 
-$${\color{red}"FIX \space \color{red}THE \space \color{red}{ROT"}}$$
-
-
-
-    
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31nevld7gnv2xxppqld4wqu4bfai&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nevld7gnv2xxppqld4wqu4bfai&cover_image=false&theme=natemoo-re&show_offline=true&background_color=212121&interchange=true&profanity=true&bar_color=ffffff&bar_color_cover=false">
-  </a>
-</p>
-
+$${\color{red}"Pag-ibig \space \color{red}Mo'y \space \color{red}{Kanibalismo."}}$$
 
 
 
  
  <p align="center">
-  <img width="1500" height="1000" src="https://github.com/user-attachments/assets/6dc654ca-8021-4fee-8047-461398da1dba">
+  <img width="1500" height="1000" src="https://github.com/user-attachments/assets/3370534b-8e21-49bf-9eb6-309f58e44dd8">
 </p>
 
 $${\color{red}𝗬𝗲𝗻𝘂 / 𝗬𝗲𝗻𝗻}$$  
@@ -35,6 +25,16 @@ $${\color{red}ᴇɴɢ / ꜰɪʟ}$$
 
  <p align="center">
   <img width="500" height="400" src="https://github.com/user-attachments/assets/6de35ad3-02f3-4e6b-a740-afdc9dee3aac">
+</p>
+
+
+
+
+    
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31nevld7gnv2xxppqld4wqu4bfai&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nevld7gnv2xxppqld4wqu4bfai&cover_image=false&theme=natemoo-re&show_offline=true&background_color=212121&interchange=true&profanity=true&bar_color=ffffff&bar_color_cover=false">
+  </a>
 </p>
 
 
@@ -63,13 +63,13 @@ $${\color{red}ᴇɴɢ / ꜰɪʟ}$$
 
 
 
-$${\color{red}"BLOOD \space \color{red}MEANS \space \color{red}{NOTHING."}}$$
+$${\color{red}"Forever \space \color{red}yours \space \color{red}{Yue."}}$$
 
 
 
 
  <p align="center">
-  <img width="1000" height="170" src="https://github.com/user-attachments/assets/19768753-b338-46b7-b737-88a3e9ce9923">
+  <img width="1000" height="170" src="https://github.com/user-attachments/assets/5ad95276-bbd6-4a50-b73e-f2f26aeef77a">
 </p>
 
 
