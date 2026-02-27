@@ -44,7 +44,7 @@ $${\color{red}ᴇɴɢ / ꜰɪʟ}$$
 
 
 
- <p align="center">   mostly offtab, I block freely and dncopy & dncover unless we know eachother </p>
+ <p align="center">   mostly offtab, Dncopy its fine if you take inspo! If you compliment my skin THANKYOUUUUUU AHH </p>
 <p>
 
 
