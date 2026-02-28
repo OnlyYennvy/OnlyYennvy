@@ -39,7 +39,7 @@ $${\color{orange}ᴇɴɢ / ꜰɪʟ}$$
 
 
 
-<p align="center">   ( 𝘤+𝘩 𝘧𝘳𝘦𝘦𝘭𝘺 𝘪𝘧 𝘐 𝘢𝘮 𝘈𝘧𝘬, I follow lots of cool people block if unwanted anytime.) </p>
+<p align="center">   ( Beware of frequent changes in my github. I follow lots of cool people block if unwanted anytime.) </p>
 <p>
 
 
