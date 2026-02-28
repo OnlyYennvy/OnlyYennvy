@@ -63,18 +63,13 @@ $${\color{orange}ᴇɴɢ / ꜰɪʟ}$$
 
 
 
-$${\color{red}"It's \space \color{red}Rudo \space \color{red}{Jerk."}}$$
-
-
-
-
  <p align="center">
   <img width="1000" height="170" src="https://github.com/user-attachments/assets/cb867a32-524a-46bc-a301-30c44504bdbb">
 </p>
 
 
 
-
+$${\color{red}"It's \space \color{red}Rudo \space \color{red}{Jerk."}}$$
 
  <p align="center">
   <img width="600" height="600" src="https://github.com/user-attachments/assets/bd94ed83-39fa-4223-95f0-dadfef2e4818">
