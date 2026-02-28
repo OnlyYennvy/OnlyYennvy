@@ -1,30 +1,30 @@
 
 
  <p align="center">
-  <img width="1000" height="170" src="https://github.com/user-attachments/assets/5ad95276-bbd6-4a50-b73e-f2f26aeef77a">
+  <img width="1000" height="170" src="https://github.com/user-attachments/assets/cb867a32-524a-46bc-a301-30c44504bdbb">
 </p>
 
 
 
 
 
-$${\color{red}"Pag-ibig \space \color{red}Mo'y \space \color{red}{Kanibalismo."}}$$
+$${\color{orange}"Time \space \color{orange}To \space \color{orange}{Clean."}}$$
 
 
 
  
  <p align="center">
-  <img width="1500" height="1000" src="https://github.com/user-attachments/assets/3370534b-8e21-49bf-9eb6-309f58e44dd8">
+  <img width="1500" height="1000" src="https://github.com/user-attachments/assets/920c6619-eaee-441e-a592-2a03d943e1e8">
 </p>
 
-$${\color{red}𝗬𝗲𝗻𝘂 / 𝗬𝗲𝗻𝗻}$$  
+$${\color{orange}𝗬𝗲𝗻𝘂 / 𝗬𝗲𝗻𝗻}$$  
 
 
-$${\color{red}ᴇɴɢ / ꜰɪʟ}$$
+$${\color{orange}ᴇɴɢ / ꜰɪʟ}$$
   
 
  <p align="center">
-  <img width="500" height="400" src="https://github.com/user-attachments/assets/6de35ad3-02f3-4e6b-a740-afdc9dee3aac">
+  <img width="500" height="400" src="https://github.com/user-attachments/assets/36a07303-c9e2-462b-b8cd-5535534542e6">
 </p>
 
 
@@ -58,7 +58,7 @@ $${\color{red}ᴇɴɢ / ꜰɪʟ}$$
 
  
 
-> ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-for-the-badge&color=8B0000&label=CLEANERS) 
+> ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-for-the-badge&color=orange&label=Cleaners) 
 
 
 
@@ -69,7 +69,7 @@ $${\color{red}"Forever \space \color{red}yours \space \color{red}{Yue."}}$$
 
 
  <p align="center">
-  <img width="1000" height="170" src="https://github.com/user-attachments/assets/5ad95276-bbd6-4a50-b73e-f2f26aeef77a">
+  <img width="1000" height="170" src="https://github.com/user-attachments/assets/cb867a32-524a-46bc-a301-30c44504bdbb">
 </p>
 
 
