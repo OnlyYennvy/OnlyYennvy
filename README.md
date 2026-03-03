@@ -14,7 +14,7 @@ $${\color{orange}"Time \space \color{orange}To \space \color{orange}{Clean."}}$$
 
  
  <p align="center">
-  <img width="1500" height="1000" src="https://github.com/user-attachments/assets/920c6619-eaee-441e-a592-2a03d943e1e8">
+  <img width="1000" height="900" src="https://github.com/user-attachments/assets/920c6619-eaee-441e-a592-2a03d943e1e8">
 </p>
 
 $${\color{orange}𝗬𝗲𝗻𝘂 / 𝗬𝗲𝗻𝗻}$$  
@@ -68,12 +68,6 @@ $${\color{orange}ᴇɴɢ / ꜰɪʟ}$$
 </p>
 
 
-
-$${\color{red}"It's \space \color{red}Rudo \space \color{red}{Jerk."}}$$
-
- <p align="center">
-  <img width="600" height="600" src="https://github.com/user-attachments/assets/bd94ed83-39fa-4223-95f0-dadfef2e4818">
-</p>
 
 
  
