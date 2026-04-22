@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="300" height="350" src="https://github.com/user-attachments/assets/a945a80c-c48c-4cff-b36e-0afcc1a5ace0">
+  <img width="300" height="350" src="https://github.com/user-attachments/assets/fd0bbe0a-e89e-4c58-926f-f45a26556d3e">
 </p>
 
 
@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img width="500" height="570" src="https://github.com/user-attachments/assets/2f0f0c56-7040-4d7c-a8dc-9b32b71b7d54">
+  <img width="500" height="570" src="https://github.com/user-attachments/assets/a04887cf-edb4-4dab-861f-c250a0b0374f">
 </p>
 
 
@@ -49,15 +49,13 @@ $${\color{grey}"Fly \space \color{grey}My \space \color{red}{cerbarus."}}$$
 
  
 
-<p align="center">
-  <img width="500" height="500" src="https://github.com/user-attachments/assets/b9284948-a5fa-4249-ae1b-ed1d9c19ce63">
-</p>
+
 
 
 
  
 ‎
-> ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-for-the-badge&color=yellow&label=Pillows) 
+> ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-for-the-badge&color=red&label=Pillows) 
 
 
 
