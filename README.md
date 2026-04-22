@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="500" height="350" src="https://github.com/user-attachments/assets/a2dfb171-6c31-4aee-9310-2df13d521f56">
+  <img width="300" height="350" src="https://github.com/user-attachments/assets/a945a80c-c48c-4cff-b36e-0afcc1a5ace0">
 </p>
 
 
@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img width="500" height="500" src="https://github.com/user-attachments/assets/5e75f7fe-e7a7-4314-b3b8-ae8c11a2fec4">
+  <img width="500" height="570" src="https://github.com/user-attachments/assets/2f0f0c56-7040-4d7c-a8dc-9b32b71b7d54">
 </p>
 
 
@@ -25,7 +25,7 @@
 
 
 
-$${\color{grey}"Fly \space \color{grey}My \space \color{Yellow}{cerbarus."}}$$
+$${\color{grey}"Fly \space \color{grey}My \space \color{red}{cerbarus."}}$$
 
 
 
