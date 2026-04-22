@@ -1,7 +1,6 @@
 
-
 <p align="center">
-  <img width="300" height="350" src="https://github.com/user-attachments/assets/fd0bbe0a-e89e-4c58-926f-f45a26556d3e">
+  <img width="270" src="https://github.com/user-attachments/assets/fd0bbe0a-e89e-4c58-926f-f45a26556d3e">
 </p>
 
 
@@ -9,7 +8,7 @@
 
 
 <p align="center">
-  <img width="500" height="570" src="https://github.com/user-attachments/assets/a04887cf-edb4-4dab-861f-c250a0b0374f">
+  <img width="500"  src="https://github.com/user-attachments/assets/a04887cf-edb4-4dab-861f-c250a0b0374f">
 </p>
 
 
@@ -43,7 +42,7 @@ $${\color{grey}"Fly \space \color{grey}My \space \color{red}{cerbarus."}}$$
 
 
 
- <p align="center">   mostly offtab, Dncopy its fine if you take inspo! If you compliment my skin THANKYOUUUUUU AHH </p>
+ <p align="center">   mostly offtab, Dncopy its fine if you take inspo! </p>
 <p>
 
 
