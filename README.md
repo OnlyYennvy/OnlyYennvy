@@ -1,11 +1,19 @@
 
+ <p align="center"> "𝐘𝐨𝐮 𝐭𝐚𝐤𝐞 𝐦𝐞 𝐨𝐮𝐭 𝐰𝐢𝐭𝐡 𝐭𝐡𝐚𝐭 𝐬𝐰𝐨𝐫𝐝 𝐈'𝐦 𝐧𝐨𝐧𝐭 𝐞𝐯𝐞𝐧 𝐠𝐨𝐧𝐧𝐚 𝐫𝐞𝐬𝐩𝐚𝐰𝐧, 𝐬𝐨 𝐠𝐞𝐭 𝐢𝐭 𝐨𝐯𝐞𝐫 𝐰𝐢𝐭𝐡."    </p>
+<p>
+
+
+
 <p align="center">
-  <img width="270" src="https://github.com/user-attachments/assets/fd0bbe0a-e89e-4c58-926f-f45a26556d3e">
+  <img width="700"  src="https://github.com/user-attachments/assets/574c3875-0b6f-4690-82fd-efc78dee18d6">
 </p>
 
 
+ <p align="center">   "𝐒𝐡𝐨𝐰 𝐦𝐞 𝐈 𝐦𝐞𝐚𝐧 𝐧𝐨𝐭𝐡𝐢𝐧𝐠 𝐭𝐨 𝐲𝐨𝐮." </p>
+<p>
+
 <p align="center">
-  <img width="500"  src="https://github.com/user-attachments/assets/a04887cf-edb4-4dab-861f-c250a0b0374f">
+  <img width="100" src="https://github.com/user-attachments/assets/dfae017c-cb96-492c-86ae-5b08a875dcf8">
 </p>
 
 
@@ -20,27 +28,16 @@
 
 
 
-
-$${\color{grey}"Fly \space \color{grey}My \space \color{red}{cerbarus."}}$$
-
-
-
-
   
+<p align="center">
+  <img width="480"  src="https://github.com/user-attachments/assets/e972d4b1-147e-4310-b7c9-1398211f40c2">
+</p>
 
 
 
 
 
 
-
-<p align="center">   ( Beware of frequent changes in my github. I follow lots of cool people block if unwanted anytime.) </p>
-<p>
-
-
-
- <p align="center">   mostly offtab, Dncopy its fine if you take inspo! </p>
-<p>
 
 
  
@@ -51,7 +48,7 @@ $${\color{grey}"Fly \space \color{grey}My \space \color{red}{cerbarus."}}$$
 
  
 ‎
-> ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-for-the-badge&color=red&label=Pillows) 
+> ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-for-the-badge&color=red&label=hearts) 
 
 
 
