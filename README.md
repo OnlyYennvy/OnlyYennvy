@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img width="450"  src="https://github.com/user-attachments/assets/de61fc36-f3b0-4982-9d7b-918e2af49ca3">
+  <img width="570"  src="https://github.com/user-attachments/assets/d976131a-f7f6-45d1-8414-6ca8186d1465">
 </p>
 
 
