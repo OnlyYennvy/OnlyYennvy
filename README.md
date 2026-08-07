@@ -20,14 +20,6 @@
 
 
 
-<p align="center">
-  <img width="500"  src="https://github.com/user-attachments/assets/c2919d42-2c27-4346-9a8c-f9a0a61e583c">
-</p>
-
-
-
-
-
 
  <p align="center">  mostly inactive. </p>
 <p>
