@@ -1,10 +1,10 @@
 
-
 <p align="center">
-  <img width="800"  src="https://github.com/user-attachments/assets/21c0e8fe-ff0f-4bfe-b3df-5f00bc92f3ce">
+  <img width="780"  src="https://github.com/user-attachments/assets/21c0e8fe-ff0f-4bfe-b3df-5f00bc92f3ce">
 </p>
 
-
+ <p align="center"> My <3 @Rosekozakura </p>
+<p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
