@@ -74,7 +74,7 @@ $${\color{#FF5733}"Every\ is\ jump \ a\ process\ to\ winning."}$$
 <p>
 
 
- <p align="center"> I don't have much to put on a DNI list, just things on general. However - if you are under 13 please dni. </p>
+ <p align="center"> Artist and a someone who codes sometimes idfk, Also a planned mcyt </p>
 <p>
 
 
