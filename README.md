@@ -82,7 +82,7 @@ $${\color{#FF5733}"Every\ is\ jump \ a\ process\ to\ winning."}$$
 ###  <img width="12" height="12" alt="download" src="https://github.com/user-attachments/assets/45904792-6fa0-4e62-96af-4e389a11caf1" /> Friends appreciation corner !!
 
 
- <p align="center"> 💬 Kai .  Keiran , William - Love these guys so much, theyre hella cool and awesome. if I could live with them I would. I met these guys in ponytown surprisingly and we have  been close ever since. Except William. </p>
+ <p align="center"> 💬 Kai .  Keiran , William , Ivy - Love these guys so much, theyre hella cool and awesome. if I could live with them I would. I met these guys in ponytown surprisingly and we have  been close ever since. Except William. </p>
 <p>
 
  <p align="center"> 💬 Yui and Apple - These fellas are so talented and amazing!! I also met the rascal Yui from ponytown - while Apple I met in discord along side. </p>
