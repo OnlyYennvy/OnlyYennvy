@@ -12,7 +12,7 @@
 </p>
 
  <p align="center">  $${\color{yellow}Artcreds:\ art\ by\ me.}$$
-$${\color{#FF5733}"Every\ is\ jump \ a\ process\ to\ winning."}$$
+$${\color{#FF5733}"Every\ jump\ is \ a\ process\ to\ winning."}$$
 <p>
 
 <p align="center">
