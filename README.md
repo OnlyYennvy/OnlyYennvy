@@ -79,21 +79,8 @@ $${\color{#FF5733}"Every\ jump\ is \ a\ process\ to\ winning."}$$
 
 
 
-###  <img width="12" height="12" alt="download" src="https://github.com/user-attachments/assets/45904792-6fa0-4e62-96af-4e389a11caf1" /> Friends appreciation corner !!
+#### github layout is wipp uhuhuh
 
-
- <p align="center"> 💬 Kai .  Keiran , William , Ivy - Love these guys so much, theyre hella cool and awesome. if I could live with them I would. I met these guys in ponytown surprisingly and we have  been close ever since. Except William. </p>
-<p>
-
- <p align="center"> 💬 Yui and Apple - These fellas are so talented and amazing!! I also met the rascal Yui from ponytown - while Apple I met in discord along side. </p>
-<p>
-
- <p align="center"> 💬 Rose  - Love you as always, and everday it seems I can't get to know you enough. </p>
-<p>
-
-
- <p align="center"> 💬 Generally anyone I know IRL or in my discord servers - I love all of these guys, close or not I still consider everyone as friends i just haven't know well yet. Even if you aren't here - you still belong in here.  </p>
-<p>
 
  > ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-for-the-badge&color=green&label=breadlings) 
 
