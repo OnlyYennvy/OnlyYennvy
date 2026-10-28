@@ -65,7 +65,7 @@
 
 
 
- <p align="center">  mostly inactive. </p>
+ <p align="center">  mostly inactive + I like following cool people :> </p>
 <p>
 
  <p align="center">  I love giving bread to people, I'm a bit awkward at first but ill bloom once I get comfortable. I love my all my friends. Read my strawpage to know more abt me >_< I'm open to make friends </p>
