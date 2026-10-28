@@ -11,9 +11,7 @@
   <img width="870"  src="https://github.com/user-attachments/assets/eaff4ae6-d94e-4c36-a953-998d8a854dfb">
 </p>
 
- <p align="center">  $${\color{yellow}Artcreds:\ art\ by\ Daze.e0 .}$$
-$${\color{#FF5733}"There\ is\ nowhere \ to\ run. "}$$
-<p>
+
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -61,10 +59,9 @@ $${\color{#FF5733}"There\ is\ nowhere \ to\ run. "}$$
 
 
 
-
-
-
- <p align="center">  $${\color{#FF5733} Things\ to\ Know .}$$
+<p align="center">
+  <img width="400"  src="https://github.com/user-attachments/assets/053ad5db-3c18-4591-bbdc-e0bc4613694b">
+</p>
 
 
 
